@@ -1,0 +1,51 @@
+﻿Student No ,Name of Candidate,Registration,Grade ,Gender,Name of school ,Date of Birth ,City of Residence,Date and time of test,Country of Residence,Extra time assistance,Question No.,Time Spent on question (sec),Score if correct,Score if incorrect,Attempt status ,What you marked,Correct Answer,Outcome (Correct/Incorrect/Not Attempted),Your score
+1,abc,32030938,2,M,YTH,11/22/2012 0:00,Tokyo,12/16/2020 0:00,Japan,No,Q1,60,2,-1,Attempted,A,A,Correct,2
+1,abc,32030938,2,M,YTH,11/22/2012 0:00,Tokyo,12/16/2020 0:00,Japan,No,Q2,52,2,-1,Unattempted,,B,Unattempted,0
+1,abc,32030938,2,M,YTH,11/22/2012 0:00,Tokyo,12/16/2020 0:00,Japan,No,Q3,89,2,-1,Attempted,C,C,Incorrect,-1
+1,abc,32030938,2,M,YTH,11/22/2012 0:00,Tokyo,12/16/2020 0:00,Japan,No,Q4,41,2,-1,Unattempted,,D,Unattempted,0
+1,abc,32030938,2,M,YTH,11/22/2012 0:00,Tokyo,12/16/2020 0:00,Japan,No,Q5,56,2,-1,Attempted,E,E,Correct,2
+2,afd,92743967,3,F,rtgh,11/11/2011 0:00,Beijing,12/16/2020 0:00,China,No,Q1,43,2,-1,Attempted,A,A,Correct,2
+2,afd,92743967,3,F,rtgh,11/11/2011 0:00,Beijing,12/16/2020 0:00,China,No,Q2,33,2,-1,Unattempted,,B,Unattempted,0
+2,afd,92743967,3,F,rtgh,11/11/2011 0:00,Beijing,12/16/2020 0:00,China,No,Q3,54,2,-1,Attempted,D,C,Incorrect,-1
+2,afd,92743967,3,F,rtgh,11/11/2011 0:00,Beijing,12/16/2020 0:00,China,No,Q4,89,2,-1,Attempted,D,D,Correct,2
+2,afd,92743967,3,F,rtgh,11/11/2011 0:00,Beijing,12/16/2020 0:00,China,No,Q5,34,2,-1,Attempted,E,E,Correct,2
+3,fds,80989090,4,M,FGD,3/7/2010 0:00,Mumbai,12/17/2020 0:00,India,No,Q1,45,2,-1,Attempted,B,A,Incorrect,-1
+3,fds,80989090,4,M,FGD,3/7/2010 0:00,Mumbai,12/17/2020 0:00,India,No,Q2,35,2,-1,Attempted,A,B,Incorrect,-1
+3,fds,80989090,4,M,FGD,3/7/2010 0:00,Mumbai,12/17/2020 0:00,India,No,Q3,56,2,-1,Attempted,B,C,Incorrect,-1
+3,fds,80989090,4,M,FGD,3/7/2010 0:00,Mumbai,12/17/2020 0:00,India,No,Q4,91,2,-1,Attempted,D,D,Correct,2
+3,fds,80989090,4,M,FGD,3/7/2010 0:00,Mumbai,12/17/2020 0:00,India,No,Q5,36,2,-1,Attempted,E,E,Correct,2
+4,oiy,22037432,4,F,JFJ,4/9/2009 0:00,Karachi,12/16/2020 0:00,Pakistan,No,Q1,47,2,-1,Attempted,B,A,Incorrect,-1
+4,oiy,22037432,4,F,JFJ,4/9/2009 0:00,Karachi,12/16/2020 0:00,Pakistan,No,Q2,37,2,-1,Attempted,B,B,Correct,2
+4,oiy,22037432,4,F,JFJ,4/9/2009 0:00,Karachi,12/16/2020 0:00,Pakistan,No,Q3,58,2,-1,Attempted,C,C,Correct,2
+4,oiy,22037432,4,F,JFJ,4/9/2009 0:00,Karachi,12/16/2020 0:00,Pakistan,No,Q4,93,2,-1,Attempted,D,D,Correct,2
+4,oiy,22037432,4,F,JFJ,4/9/2009 0:00,Karachi,12/16/2020 0:00,Pakistan,No,Q5,38,2,-1,Attempted,E,E,Correct,2
+5,fgs,47859347,5,M,WWP,9/19/2010 0:00,Chicago,12/16/2020 0:00,USA,No,Q1,58,2,-1,Attempted,A,A,Correct,2
+5,fgs,47859347,5,M,WWP,9/19/2010 0:00,Chicago,12/16/2020 0:00,USA,No,Q2,50,2,-1,Attempted,B,B,Correct,2
+5,fgs,47859347,5,M,WWP,9/19/2010 0:00,Chicago,12/16/2020 0:00,USA,No,Q3,87,2,-1,Unattempted,,C,Unattempted,0
+5,fgs,47859347,5,M,WWP,9/19/2010 0:00,Chicago,12/16/2020 0:00,USA,No,Q4,39,2,-1,Attempted,D,D,Correct,2
+5,fgs,47859347,5,M,WWP,9/19/2010 0:00,Chicago,12/16/2020 0:00,USA,No,Q5,54,2,-1,Unattempted,,E,Unattempted,0
+6,wty,92743967,6,F,PLP,10/21/2008 0:00,Sao Paolo,12/17/2020 0:00,Brazil,Yes,Q1,41,2,-1,Unattempted,,A,Unattempted,0
+6,wty,92743967,6,F,PLP,10/21/2008 0:00,Sao Paolo,12/17/2020 0:00,Brazil,Yes,Q2,31,2,-1,Attempted,B,B,Correct,2
+6,wty,92743967,6,F,PLP,10/21/2008 0:00,Sao Paolo,12/17/2020 0:00,Brazil,Yes,Q3,52,2,-1,Attempted,C,C,Correct,2
+6,wty,92743967,6,F,PLP,10/21/2008 0:00,Sao Paolo,12/17/2020 0:00,Brazil,Yes,Q4,87,2,-1,Attempted,C,D,Incorrect,-1
+6,wty,92743967,6,F,PLP,10/21/2008 0:00,Sao Paolo,12/17/2020 0:00,Brazil,Yes,Q5,32,2,-1,Attempted,E,E,Correct,2
+7,dsd,65644238,5,M,AZA,12/31/2009 0:00,London,12/17/2020 0:00,England,No,Q1,43,2,-1,Attempted,A,A,Correct,2
+7,dsd,65644238,5,M,AZA,12/31/2009 0:00,London,12/17/2020 0:00,England,No,Q2,33,2,-1,Attempted,B,B,Correct,2
+7,dsd,65644238,5,M,AZA,12/31/2009 0:00,London,12/17/2020 0:00,England,No,Q3,54,2,-1,Attempted,D,C,Incorrect,-1
+7,dsd,65644238,5,M,AZA,12/31/2009 0:00,London,12/17/2020 0:00,England,No,Q4,89,2,-1,Attempted,D,D,Correct,2
+7,dsd,65644238,5,M,AZA,12/31/2009 0:00,London,12/17/2020 0:00,England,No,Q5,34,2,-1,Attempted,E,E,Correct,2
+8,yyy,90991233,7,F,HGH,2/8/2013 0:00,Delhi,12/16/2020 0:00,India,No,Q1,39,2,-1,Attempted,A,A,Correct,2
+8,yyy,90991233,7,F,HGH,2/8/2013 0:00,Delhi,12/16/2020 0:00,India,No,Q2,29,2,-1,Attempted,B,B,Correct,2
+8,yyy,90991233,7,F,HGH,2/8/2013 0:00,Delhi,12/16/2020 0:00,India,No,Q3,50,2,-1,Unattempted,,C,Unattempted,0
+8,yyy,90991233,7,F,HGH,2/8/2013 0:00,Delhi,12/16/2020 0:00,India,No,Q4,85,2,-1,Attempted,D,D,Correct,2
+8,yyy,90991233,7,F,HGH,2/8/2013 0:00,Delhi,12/16/2020 0:00,India,No,Q5,30,2,-1,Unattempted,E,E,Correct,2
+9,pop,76754433,8,M,TTT,7/9/2012 0:00,Dhaka,12/17/2020 0:00,Bangladesh,Yes,Q1,42,2,-1,Unattempted,,A,Unattempted,0
+9,pop,76754433,8,M,TTT,7/9/2012 0:00,Dhaka,12/17/2020 0:00,Bangladesh,Yes,Q2,32,2,-1,Attempted,B,B,Correct,2
+9,pop,76754433,8,M,TTT,7/9/2012 0:00,Dhaka,12/17/2020 0:00,Bangladesh,Yes,Q3,53,2,-1,Attempted,C,C,Correct,2
+9,pop,76754433,8,M,TTT,7/9/2012 0:00,Dhaka,12/17/2020 0:00,Bangladesh,Yes,Q4,88,2,-1,Attempted,D,D,Correct,2
+9,pop,76754433,8,M,TTT,7/9/2012 0:00,Dhaka,12/17/2020 0:00,Bangladesh,Yes,Q5,33,2,-1,Attempted,A,E,Incorrect,-1
+10,qqw,90283622,12,F,BGG,6/2/2012 0:00,Mumbai,12/16/2020 0:00,India,No,Q1,45,2,-1,Attempted,A,A,Correct,2
+10,qqw,90283622,12,F,BGG,6/2/2012 0:00,Mumbai,12/16/2020 0:00,India,No,Q2,35,2,-1,Unattempted,,B,Unattempted,0
+10,qqw,90283622,12,F,BGG,6/2/2012 0:00,Mumbai,12/16/2020 0:00,India,No,Q3,56,2,-1,Attempted,C,C,Correct,2
+10,qqw,90283622,12,F,BGG,6/2/2012 0:00,Mumbai,12/16/2020 0:00,India,No,Q4,91,2,-1,Attempted,D,D,Correct,2
+10,qqw,90283622,12,F,BGG,6/2/2012 0:00,Mumbai,12/16/2020 0:00,India,No,Q5,36,2,-1,Attempted,D,E,Incorrect,-1
